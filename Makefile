@@ -1,0 +1,10 @@
+FLAGS=-Wall -g
+
+
+all: ex1
+	make ex1
+
+clean:
+	rm -f ex1
+
+
